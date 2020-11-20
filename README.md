@@ -2,7 +2,7 @@
 Purdue Pete's Adventure is a game that follows the normal adventures of Purdue University's brave mascot Pete. 
 Along his way of reaching his end goal, he encounters many villains from other schools nearby that want to fight Purdue Pete.
 In order to reach back home safely, Purdue Pete must defeat the other villains in a battle in order to get back home safely.
-Made by Raveena Nair, Kristy Huang, Myky Hyunh at BoilerMake 2020.
+Made by Raveena Nair, Kristy Huang, and Myky Hyunh at BoilerMake 2020.
 
 ![Platform Style](https://github.com/raveenamnair/PurduePetesAdventure/blob/master/Screen%20Shot%202020-09-24%20at%2011.07.00%20PM.png)
 ![Encountering Villain](https://github.com/raveenamnair/PurduePetesAdventure/blob/master/Screen%20Shot%202020-09-24%20at%2011.07.20%20PM.png)
